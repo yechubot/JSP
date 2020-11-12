@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2>회원 가입</h2>
+	<form method="post" action="join.jsp">
+		<table>
+			<tr>
+				<td>성명:</td>
+				<td><input type="text" name="name"></td>
+			</tr>
+			<tr>
+				<td>아이디:</td>
+				<td><input type="text" name="id" maxlength="14" minlength="8"></td>
+			</tr>
+			<tr>
+				<td>비밀번호:</td>
+				<td><input type="password" name="pw"></td>
+			</tr>
+			<tr>
+				<td>비밀번호 확인:</td>
+				<td><input type="password" name="pwCheck"></td>
+			</tr>
+			<tr>
+				<td>생년월일:</td>
+				<td><input type="number" name="year" min="1900">년 <input
+					type="number" name="month" min="1" max="12">월 <input
+					type="number" name="date" min="1" max="30">일</td>
+			</tr>
+			<tr>
+				<td>성별:</td>
+				<td><input type="radio" name="sex" value="male">남 <input
+					type="radio" name="sex" value="female">여</td>
+			</tr>
+			<tr>
+				<td>email:</td>
+				<td><input type="email" name="email"></td>
+			</tr>
+			<tr>
+			<td> <input
+					type="submit" value="send"></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>
