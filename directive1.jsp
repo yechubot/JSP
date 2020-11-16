@@ -9,7 +9,7 @@
 <body>
 	<h1>Directive Example</h1>
 	<%@ include file = "directiveTop.jsp" %>
-	include Áö½ÃÀÚÀÇ bodyºÎºĞ ÀÔ´Ï´Ù..
+	include ì§€ì‹œìì˜ bodyë¶€ë¶„ ì…ë‹ˆë‹¤..
 	<%@ include file = "directiveBottom.jsp"%>
 	
 </body>
