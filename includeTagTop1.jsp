@@ -10,7 +10,7 @@
 	<%	
 	String name = request.getParameter("name");
 	%>
-	include ╬в╪геб╠вюг topют╢о╢ы.
+	include Л∙║Л┘≤М┐°Й╥╦Л²≤ topЛ·┘К▀┬К▀╓.
 	<p>
 	<b><%=name %> Fighting !!!</b> 
 	<hr>
