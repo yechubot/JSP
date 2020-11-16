@@ -11,7 +11,7 @@
 	<%
 		Date date = new Date();
 	%>
-	include Áö½ÃÀÚÀÇ Bottom ºÎºÐÀÔ´Ï´Ù. <p>
+	include ì§€ì‹œìžì˜ Bottom ë¶€ë¶„ìž…ë‹ˆë‹¤.  <p>
 	<%=date.toLocaleString()%>
 </body>
 </html>
