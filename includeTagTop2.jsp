@@ -10,7 +10,7 @@
 	<%
 		String siteName = request.getParameter("siteName");
 	%>
-	includeÀÇ actiontagÀÇ topÀÔ´Ï´Ù.
+	includeì˜ actiontagì˜ topì…ë‹ˆë‹¤.
 	<%=siteName %>
 	<hr>
 </body>
