@@ -15,7 +15,7 @@
 	<jsp:include page ="includeTagTop2.jsp">
 		<jsp:param name="siteName" value = "jspstudy.co.kr"/>
 	</jsp:include>
-	include actionTagÀÇ bodyÀÔ´Ï´Ù. <p>
+	include actionTagì˜ bodyì…ë‹ˆë‹¤. <p>
 	<b><%=siteName %></b>
 </body>
 </html>
